@@ -1,0 +1,56 @@
+body{
+font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.nama{
+   text-decoration: none;
+   color: #F2A71B;
+   font-size: 2rem;
+}
+.nama:hover{
+    color: white;
+    transition: 2s;
+}
+
+.jumbotron{
+    padding-top: 6rem;
+}
+
+.card {
+    border-radius: 8px;
+    box-shadow: 2px;
+}
+
+#project{
+    background-color: #A5A692;
+}
+
+.footer{
+    text-align: center;
+    height: 80px;
+    color: #ffff;
+    font-size: medium;
+    font-weight: bold;
+    text-decoration: none;
+    background-color: #025E73;
+
+}
+
+.footer > p > a{
+    color: #F2A71B;
+    text-decoration: none;
+}
+.footer > p > a:hover{
+    color: white;
+    transition: 2s;
+}
+
+.galery-img{
+    width: 100%;
+    
+}
+
+#galery .row > *{
+    padding: 0;
+    
+}
